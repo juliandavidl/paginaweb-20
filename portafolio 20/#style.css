@@ -1,0 +1,27 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 120px;
+}
+#contener_cabecera{
+width: 100%;
+    display: flex;
+    justify-content : space_evenly;
+    align-items: center;{
+  }
+#contener_cabecera{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./img/meca.jfif");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 500px;
+    #descripcion{
+        font-size: x-large;
+        color: azure#fff;
+    }
+
+
+    
